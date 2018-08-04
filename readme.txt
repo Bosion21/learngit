@@ -3,4 +3,4 @@ Git is a distributed free software.
 Git has a mutable index called stage.
 Git tracks changes of files.
 Update user to Bosion21.
-Add branch dev.
+Add branch dev add branch feature1 is quick and simple.
